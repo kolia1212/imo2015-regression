@@ -10,6 +10,7 @@ Część 2:
 W drugiej części projektu skoncentrowane są działania mające na celu polepszenie modelu. Dokonuję redukcji nieistotnych zmiennych niezależnych oraz wykonuję różne transformacje na zmiennych, aby lepiej dopasować model do danych. Wszystkie te kroki znajdują się po trzeciej stronie pliku PDF.
 
 
+
 Struktura projektu:
 1) Plik csv z danymi użytymi w projekcie
 2) Plik R: Jest to skrypt w języku R, który przeprowadza analizę danych z pliku csv. Wykorzystuje różne techniki statystyczne i modelowanie do identyfikacji zależności między zmiennymi.
