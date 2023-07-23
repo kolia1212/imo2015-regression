@@ -2,6 +2,7 @@
 Ten projekt został stworzony w ramach kursu "Ekonometria" i ma na celu znalezienie zależności pomiędzy ilością całkowitej liczby punktów zdobytych przez kraje na Międzynarodowej Olimpiadzie Matematycznej (IMO) w 2015 roku, a szeregiem 10 zmiennych objaśniających, wybranych przez autora.
 
 Projekt składa się z dwóch części:
+
 Część 1:
 W pierwszej części projektu skupiam się głównie na zbieraniu danych oraz tworzeniu modelu regresji liniowej. Przeprowadzam analizę wstępną, prezentując wyniki na pierwszych trzech stronach pliku PDF. Wykorzystuję różne techniki statystyczne do zrozumienia relacji między zmiennymi, a także sprawdzam założenia kluczowe dla modelu regresji liniowej.
 
